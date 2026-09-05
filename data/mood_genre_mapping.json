@@ -1,0 +1,320 @@
+{
+  "genre_mood_combinations": {
+    "indie folk_hopeful": {
+      "bpm": "74–92 BPM",
+      "instruments": ["🎸 Acoustic Fingerstyle Guitar", "🎹 Warm Upright Piano", "🥁 Light Brushed Snare", "🎻 Mellifluous Cello", "🪕 Subtle Banjo Plucks"],
+      "vibes": ["Warm", "Intimate", "Nostalgic", "Cinematic", "Uplifting"],
+      "description": "Organic, heartfelt folk arrangement with earthy acoustic textures and soaring strings that evoke dawn breaking over open countryside."
+    },
+    "indie folk_nostalgic": {
+      "bpm": "68–84 BPM",
+      "instruments": ["🎸 Worn-in Acoustic Guitar", "🎹 Felt Piano", "🎻 Weeping Fiddle", "🪗 Soft Harmonium", "🥁 Gentle Kick and Foot Stomps"],
+      "vibes": ["Earthy", "Wistful", "Campfire Glow", "Sentimental", "Raw"],
+      "description": "Rustic, woodsy folk built around fingerpicking and vintage tape warmth, feeling like looking at dusty polaroids."
+    },
+    "indie folk_melancholic": {
+      "bpm": "62–78 BPM",
+      "instruments": ["🎸 Nylon String Guitar", "🎻 Low Drone Cello", "🎹 Distant Piano", "🌧️ Atmospheric Room Reverb"],
+      "vibes": ["Somber", "Hollow", "Vulnerable", "Reflective", "Quiet"],
+      "description": "Sparse, fragile acoustic production focusing all attention on breath and resonant acoustic wood resonances."
+    },
+    "indie pop_happy": {
+      "bpm": "116–128 BPM",
+      "instruments": ["🎸 Jangly Rickenbacker Guitars", "🎹 Vintage Juno Synth", "🥁 Punchy Indie Drums", "🎺 Bright Horn Stabs", "👏 Handclaps"],
+      "vibes": ["Bubbly", "Sun-Drenched", "Catchy", "Playful", "Effervescent"],
+      "description": "Bouncy, shimmer-soaked indie pop with walking basslines, syncopated guitars, and contagious uplifting grooves."
+    },
+    "indie pop_dreamy": {
+      "bpm": "88–104 BPM",
+      "instruments": ["🎸 Chorus-Drenched Stratocaster", "🎹 Lush Prophet Pads", "🥁 Gated Snare Drum", "✨ Bell Tines & Chimes"],
+      "vibes": ["Ethereal", "Hypnotic", "Hazy", "Shoegaze-Kissed", "Floating"],
+      "description": "Dream-pop atmosphere with lush reverb tails, soft vocal doubling space, and shimmering synth tapestries."
+    },
+    "indie pop_romantic": {
+      "bpm": "96–112 BPM",
+      "instruments": ["🎸 Warm Clean Telecaster", "🎹 Electric Rhodes", "🎻 Soaring Chamber Strings", "🥁 Soft Driving Beat"],
+      "vibes": ["Sweet", "Heartfelt", "Groovy", "Intimate", "Euphoric"],
+      "description": "Charming, infectious rhythm section paired with tender melodic motifs and lush vocal harmonies."
+    },
+    "pop_energetic": {
+      "bpm": "122–130 BPM",
+      "instruments": ["🎹 Modern Serum Lead Synths", "🥁 Sidechained Sub & Punchy Kick", "🎸 Electric Guitar Riffs", "💥 Claps and Risers"],
+      "vibes": ["Anthemic", "Radio-Ready", "Driving", "Electric", "Empowering"],
+      "description": "High-octane commercial pop production with driving 4-on-the-floor energy, colossal drops, and pristine polish."
+    },
+    "pop_romantic": {
+      "bpm": "92–108 BPM",
+      "instruments": ["🎹 Polished Grand Piano", "🎸 Acoustic Strumming", "🎻 Symphony Section", "🥁 Modern Urban Pop Beat"],
+      "vibes": ["Lush", "Passionate", "Glossy", "Emotional", "Timeless"],
+      "description": "Dynamic radio pop ballad with emotional crescendos, rich chords, and soaring multi-layered hooks."
+    },
+    "pop_sad": {
+      "bpm": "70–85 BPM",
+      "instruments": ["🎹 Solitary Grand Piano", "🎻 Subdued String Quartet", "🌧️ Rain Ambience", "🥁 Minimal 808 Rimshot"],
+      "vibes": ["Heartbreaking", "Introspective", "Haunting", "Tear-Jerking", "Delicate"],
+      "description": "Stripped-back pop ballad arrangement letting vocal intimacy carry devastating lyrical weight."
+    },
+    "rock_angry": {
+      "bpm": "135–158 BPM",
+      "instruments": ["🎸 Overdriven Dual Humbuckers", "🎸 Distorted Bass Guitar", "🥁 Aggressive Crash Cymbals & Double Kick", "⚡ Feedback Whines"],
+      "vibes": ["Fierce", "Defiant", "Raw", "Gritty", "Rebellious"],
+      "description": "Wall of distorted guitars, pounding driving drums, and visceral energy built to shake arenas."
+    },
+    "rock_energetic": {
+      "bpm": "128–145 BPM",
+      "instruments": ["🎸 Crunch Rhythm Guitars", "🎸 Lead Pentatonic Guitar Fills", "🥁 Driving Rock Kit", "🎹 Hammond B3 Organ"],
+      "vibes": ["Punchy", "High-Voltage", "Triumphant", "Unstoppable", "Classic"],
+      "description": "Electrifying stadium rock groove with infectious riffs, thunderous rhythm section, and anthemic dynamics."
+    },
+    "rock_dark": {
+      "bpm": "80–100 BPM",
+      "instruments": ["🎸 Baritone Detuned Guitar", "🎹 Distorted Synth Drone", "🥁 Heavy Stomping Drums", "🎻 Dark Low Cellos"],
+      "vibes": ["Brooding", "Ominous", "Menacing", "Gritty", "Industrial"],
+      "description": "Gothic, heavy alternative rock texture with simmering tension, dark bass, and sudden explosive bursts."
+    },
+    "hip-hop_energetic": {
+      "bpm": "138–160 BPM",
+      "instruments": ["🥁 Rolling Fast Hi-Hats", "🔊 Heavy Saturation 808", "🎹 Brass Horn Stabs", "🎺 Aggressive Sample Chops"],
+      "vibes": ["Hype", "Bouncing", "Dominant", "Unrelenting", "Street-Smart"],
+      "description": "Hard-hitting modern trap groove with lightning hi-hat rolls, earth-shaking 808 glides, and piercing leads."
+    },
+    "hip-hop_melancholic": {
+      "bpm": "76–88 BPM",
+      "instruments": ["🎹 Filtered Minor Piano Loop", "🥁 Boom-Bap Vinyl Drum Break", "🔊 Deep Smooth 808 Sub", "🎸 Muted Electric Guitar Licks"],
+      "vibes": ["Reflective", "Late-Night", "Moody", "Introspective", "Poetic"],
+      "description": "Soulful, late-night introspective hip-hop beat evocative of rainy city drives and deep contemplative verses."
+    },
+    "hip-hop_dark": {
+      "bpm": "120–140 BPM",
+      "instruments": ["🎹 Eerie Music Box Bells", "🔊 Distorted 808", "🥁 Sparse Snares and Claps", "⚡ Siren Sweeps"],
+      "vibes": ["Sinister", "Gritty", "Tense", "Nocturnal", "Cold"],
+      "description": "Cinematic underground trap with eerie minor melodies, sparse spacing, and cold, menacing low-end."
+    },
+    "r&b_romantic": {
+      "bpm": "65–80 BPM",
+      "instruments": ["🎹 Lush Fender Rhodes Electric Piano", "🎸 Silky Neo-Soul Guitar", "🥁 Warm Vinyl Trap Drums", "🔊 Smooth Sine Wave Bass"],
+      "vibes": ["Sensual", "Velvety", "Soul-Stirring", "Intimate", "Warm"],
+      "description": "Silky contemporary R&B production with neo-soul chord extensions, warm sub frequencies, and vocal harmonies."
+    },
+    "r&b_melancholic": {
+      "bpm": "60–75 BPM",
+      "instruments": ["🎹 Tremolo Electric Keys", "🎸 Reverb-Soaked Guitar Arpeggios", "🥁 Subdued Finger Snaps", "🔊 Low Moody 808"],
+      "vibes": ["Heartbroken", "Moody", "Late-Night", "Silky", "Vulnerable"],
+      "description": "Slow-burning R&B ballad capturing late-night loneliness with spacious chords and atmospheric vocal room."
+    },
+    "country_nostalgic": {
+      "bpm": "80–96 BPM",
+      "instruments": ["🎸 Pedal Steel Guitar", "🎸 Acoustic Flatpicked Martin", "🎻 Sweet Country Fiddle", "🥁 Steady Train Beat"],
+      "vibes": ["Home-Cooked", "Heartland", "Sentimental", "Genuine", "Front-Porch"],
+      "description": "Classic heartland country arrangement highlighting rich pedal steel swells, storytelling acoustic strumming, and earnest fiddles."
+    },
+    "country_hopeful": {
+      "bpm": "100–118 BPM",
+      "instruments": ["🎸 Bright Telecaster Twang", "🪕 Driving Banjo", "🎻 Twin Fiddles", "🥁 Upbeat Kick & Snare Train Beat"],
+      "vibes": ["Sunny", "Optimistic", "Down-Home", "Free-Spirited", "Warm"],
+      "description": "Uplifting country-radio groove filled with crisp acoustic strumming, joyful banjo runs, and spirited twin fiddles."
+    },
+    "country_sad": {
+      "bpm": "64–76 BPM",
+      "instruments": ["🎸 Weeping Pedal Steel", "🎸 Solo Acoustic Guitar", "🎹 Upright Piano", "🎻 Subdued Fiddle Cries"],
+      "vibes": ["Honest", "Heartbroken", "Dusty", "Poignant", "Tear-in-Beer"],
+      "description": "Authentic honky-tonk / heartland lament driven by pedal steel tears and sparse acoustic fingerpicking."
+    },
+    "lo-fi_peaceful": {
+      "bpm": "70–82 BPM",
+      "instruments": ["📻 Vinyl Crackle & Tape Flutter", "🎹 Detuned Rhodes Piano", "🥁 Dusty Muffled Hip-Hop Drums", "🌧️ Window Rain Sounds"],
+      "vibes": ["Cozy", "Chill", "Nostalgic", "Peaceful", "Study-Friendly"],
+      "description": "Relaxing lo-fi hip-hop soundscape infused with vinyl static, warm detuned jazz chords, and gentle ambient field recordings."
+    },
+    "lo-fi_dreamy": {
+      "bpm": "68–80 BPM",
+      "instruments": ["📻 Wobbling Analog Synthesizer", "🎹 Electric Piano with Chorus", "🎸 Soft Jazzy Guitar", "🥁 Sidechained Lofi Kick"],
+      "vibes": ["Floating", "Pastel", "Sleepy", "Warm", "Introspective"],
+      "description": "Subtle, dreamlike tape-saturated beats with soothing chord progressions and tranquil nocturnal textures."
+    },
+    "lo-fi_melancholic": {
+      "bpm": "65–78 BPM",
+      "instruments": ["📻 Tape-Degraded Acoustic Guitar", "🎹 Minor 7th Jazz Keys", "🥁 Muted Kick & Rimshot", "🌧️ Distant Coffee Shop Murmur"],
+      "vibes": ["Bittersweet", "Reflective", "Quiet", "Introspective", "Gentle"],
+      "description": "Muted, introspective bedroom lo-fi reflecting bittersweet memories on a solitary rainy evening."
+    },
+    "edm_energetic": {
+      "bpm": "126–132 BPM",
+      "instruments": ["🎹 Supersaw Lead Synths", "🥁 Massive 4-on-the-Floor Kick", "🔊 Plucky Bassline", "⚡ White Noise Sweeps & Buildup Risers"],
+      "vibes": ["Euphoric", "Festival-Ready", "Hypnotic", "Driving", "Electric"],
+      "description": "High-energy festival EDM banger with huge euphoric lead drops, driving basslines, and adrenaline-pumping builds."
+    },
+    "edm_dreamy": {
+      "bpm": "118–125 BPM",
+      "instruments": ["🎹 Lush Ambient Synth Plucks", "✨ Sidechained Vocal Chops", "🥁 Future Bass Half-Time Beat", "🔊 Warm Sub Bass"],
+      "vibes": ["Transcendent", "Glowing", "Ethereal", "Warm", "Uplifting"],
+      "description": "Melodic future bass / progressive house soundscape with lush vocal chop arpeggios and emotional synth swells."
+    },
+    "alternative_mysterious": {
+      "bpm": "84–102 BPM",
+      "instruments": ["🎸 Tremolo Moody Electric Guitar", "🎹 Creepy Mellotron Flutes", "🥁 Odd-Time Drum Grooves", "🔊 Hypnotic Bassline"],
+      "vibes": ["Enigmatic", "Intriguing", "Unconventional", "Shadowy", "Hypnotic"],
+      "description": "Unconventional art-rock / alternative soundscape with eerie guitar textures, creeping basslines, and psychological tension."
+    },
+    "alternative_dark": {
+      "bpm": "90–110 BPM",
+      "instruments": ["🎸 Fuzz Distorted Bass", "🥁 Industrial Percussion", "🎸 Piercing Dissonant Guitar Accents", "🎹 Analog Synth Drones"],
+      "vibes": ["Edgy", "Cathartic", "Gritty", "Nocturnal", "Tense"],
+      "description": "Post-punk / alternative darkness loaded with driving motorik beats, sharp guitar lines, and shadowy atmospherics."
+    },
+    "acoustic_peaceful": {
+      "bpm": "65–80 BPM",
+      "instruments": ["🎸 Fingerpicked Nylon Guitar", "🎹 Soft Felt Piano", "🌬️ Gentle Wind & Woodwinds", "🎻 Light Ambient Strings"],
+      "vibes": ["Serene", "Calming", "Zen", "Bucolic", "Pure"],
+      "description": "Gentle, organic acoustic intimacy reminiscent of morning sun rays streaming through quiet window blinds."
+    },
+    "acoustic_romantic": {
+      "bpm": "72–88 BPM",
+      "instruments": ["🎸 Dual Acoustic Guitars (Fingerstyle + Strum)", "🎹 Warm Upright Piano", "🎻 Romantic Cello Solo", "🥁 Soft Cajón Taps"],
+      "vibes": ["Heartfelt", "Tender", "Warm", "Sweet", "Soulful"],
+      "description": "Tender singer-songwriter ballad built around intertwining acoustic guitars and deep, resonant cello countermelodies."
+    },
+    "soul_hopeful": {
+      "bpm": "94–110 BPM",
+      "instruments": ["🎹 Wurlitzer Electric Piano", "🎺 Brass Section (Trumpet, Trombone, Sax)", "🥁 Soulful Drum Pocket", "🎸 Rhythm Guitar Upstrokes", "👏 Handclaps & Gospel Backing Vocals"],
+      "vibes": ["Joyous", "Soul-Stirring", "Spiritual", "Triumphant", "Warm"],
+      "description": "Classic Motown & Stax-inspired joyful soul with pumping basslines, uplifting brass horn blasts, and choir swells."
+    },
+    "soul_sad": {
+      "bpm": "60–72 BPM",
+      "instruments": ["🎹 Hammond B3 Organ with Leslie Speaker", "🎸 Crying Blues Guitar Licks", "🥁 Slow 6/8 Ballad Drums", "🎻 Dramatic Strings"],
+      "vibes": ["Deeply Moving", "Gut-Wrenching", "Authentic", "Raw", "Expressive"],
+      "description": "Deep Southern soul ballad in 6/8 time signature with weeping blues licks, heavy organ swells, and raw emotional resonance."
+    }
+  },
+  "genre_defaults": {
+    "pop": {
+      "bpm": "110–125 BPM",
+      "instruments": ["🎹 Modern Pop Synths", "🥁 Polished Electronic Drums", "🎸 Clean Electric Guitar Chords", "🔊 Punchy Bassline"],
+      "vibes": ["Catchy", "Polished", "Radio-Ready", "Dynamic"]
+    },
+    "indie pop": {
+      "bpm": "100–120 BPM",
+      "instruments": ["🎸 Shimmering Guitars", "🎹 Vintage Analog Synths", "🥁 Indie Drum Kit", "🔊 Melodic Bassline"],
+      "vibes": ["Authentic", "Catchy", "Artistic", "Dreamy"]
+    },
+    "indie folk": {
+      "bpm": "70–88 BPM",
+      "instruments": ["🎸 Acoustic Guitar", "🎻 Cello & Violin", "🎹 Felt Piano", "🥁 Stomp & Shaker"],
+      "vibes": ["Earthy", "Intimate", "Organic", "Heartfelt"]
+    },
+    "rock": {
+      "bpm": "120–140 BPM",
+      "instruments": ["🎸 Electric Distortion Guitars", "🎸 Punchy Bass", "🥁 Full Acoustic Drum Kit", "⚡ Rock Lead Fills"],
+      "vibes": ["Driving", "Powerful", "Raw", "Anthemic"]
+    },
+    "hip-hop": {
+      "bpm": "80–95 BPM / 140–160 BPM",
+      "instruments": ["🔊 808 Sub Bass", "🥁 Crisp Snares & Hi-Hats", "🎹 Sampled Melodic Loops", "🎙️ Vocal Chops"],
+      "vibes": ["Rhythmic", "Confident", "Groovy", "Urban"]
+    },
+    "r&b": {
+      "bpm": "65–85 BPM",
+      "instruments": ["🎹 Rhodes Electric Piano", "🔊 Smooth Synth Bass", "🥁 R&B Trap Drums", "🎸 Silky Guitar Licks"],
+      "vibes": ["Smooth", "Sensual", "Lush", "Warm"]
+    },
+    "country": {
+      "bpm": "85–110 BPM",
+      "instruments": ["🎸 Acoustic Guitar", "🎸 Pedal Steel", "🎻 Fiddle", "🥁 Country Train Beat"],
+      "vibes": ["Story-Driven", "Earthy", "Heartfelt", "Authentic"]
+    },
+    "lo-fi": {
+      "bpm": "70–84 BPM",
+      "instruments": ["📻 Vinyl Tape Noise", "🎹 Muted Rhodes Keys", "🥁 Muffled Hip-Hop Beat", "🎸 Warm Jazzy Guitar"],
+      "vibes": ["Chill", "Nostalgic", "Relaxing", "Subtle"]
+    },
+    "edm": {
+      "bpm": "124–130 BPM",
+      "instruments": ["🎹 Big Lead Synths", "🥁 4-on-the-Floor Kick", "🔊 Pluck Bass", "⚡ Risers and White Noise"],
+      "vibes": ["Energetic", "Euphoric", "Pulsating", "Club-Ready"]
+    },
+    "alternative": {
+      "bpm": "95–115 BPM",
+      "instruments": ["🎸 Moody Electric Guitars", "🔊 Driving Bassline", "🥁 Dynamic Drumming", "🎹 Textural Synth Pads"],
+      "vibes": ["Intriguing", "Unconventional", "Dynamic", "Edgy"]
+    },
+    "acoustic": {
+      "bpm": "68–86 BPM",
+      "instruments": ["🎸 Dual Acoustic Guitars", "🎹 Upright Piano", "🎻 Solo Strings", "🥁 Soft Cajón & Shaker"],
+      "vibes": ["Organic", "Intimate", "Pure", "Stripped-Back"]
+    },
+    "soul": {
+      "bpm": "75–95 BPM",
+      "instruments": ["🎹 Hammond Organ", "🎺 Horn Section", "🥁 Soulful Groove Pocket", "🎸 Funky Rhythm Guitar"],
+      "vibes": ["Passionate", "Expressive", "Warm", "Soul-Stirring"]
+    }
+  },
+  "mood_defaults": {
+    "hopeful": {
+      "bpm": "85–105 BPM",
+      "instruments": ["🎸 Acoustic Fingerpicking", "🎹 Warm Piano", "🎻 Rising Strings", "🥁 Uplifting Percussion"],
+      "vibes": ["Optimistic", "Inspiring", "Radiant", "Elevating"]
+    },
+    "happy": {
+      "bpm": "115–128 BPM",
+      "instruments": ["🎸 Bright Strumming", "🎹 Upbeat Piano", "👏 Claps", "🥁 Punchy Grooves"],
+      "vibes": ["Joyous", "Playful", "Sunny", "Carefree"]
+    },
+    "sad": {
+      "bpm": "60–75 BPM",
+      "instruments": ["🎹 Solitary Piano", "🎻 Subdued Strings", "🌧️ Room Reverb", "🎸 Gentle Acoustic Notes"],
+      "vibes": ["Heartbroken", "Melancholic", "Tender", "Poignant"]
+    },
+    "melancholic": {
+      "bpm": "65–78 BPM",
+      "instruments": ["🎹 Felt Piano", "🎻 Cello Drone", "🎸 Muted Electric Guitar", "🌧️ Atmospheric Pads"],
+      "vibes": ["Wistful", "Bittersweet", "Reflective", "Sorrowful"]
+    },
+    "romantic": {
+      "bpm": "75–95 BPM",
+      "instruments": ["🎸 Nylon Guitar", "🎹 Fender Rhodes", "🎻 String Ensemble", "🥁 Soft Groove"],
+      "vibes": ["Intimate", "Tender", "Warm", "Passionate"]
+    },
+    "energetic": {
+      "bpm": "125–140 BPM",
+      "instruments": ["🎸 Driving Riffs", "🥁 High-Impact Drums", "🎹 Bright Synth Leads", "🔊 Pumping Bass"],
+      "vibes": ["Exhilarating", "Dynamic", "Unstoppable", "Electric"]
+    },
+    "nostalgic": {
+      "bpm": "72–88 BPM",
+      "instruments": ["📻 Vintage Tape Keys", "🎸 Worn Acoustic Guitar", "🎹 Warm Organ", "🥁 Gentle Brushes"],
+      "vibes": ["Reminiscent", "Sentimental", "Golden-Hour", "Timeless"]
+    },
+    "peaceful": {
+      "bpm": "60–74 BPM",
+      "instruments": ["🎸 Fingerpicked Acoustic", "🎹 Soft Piano", "🌬️ Ambient Pads", "🔔 Delicate Chimes"],
+      "vibes": ["Serene", "Tranquil", "Calming", "Zen"]
+    },
+    "dark": {
+      "bpm": "75–95 BPM",
+      "instruments": ["🎸 Low Detuned Guitars", "🎹 Dissonant Synth Pads", "🥁 Heavy Stomps", "🔊 Deep Sub Drones"],
+      "vibes": ["Ominous", "Shadowy", "Intense", "Brooding"]
+    },
+    "dreamy": {
+      "bpm": "80–96 BPM",
+      "instruments": ["🎹 Shimmering Reverb Pads", "🎸 Chorus Guitars", "✨ Harp & Bell Tines", "🥁 Feather-Light Beats"],
+      "vibes": ["Ethereal", "Floating", "Mystical", "Hazy"]
+    },
+    "angry": {
+      "bpm": "130–155 BPM",
+      "instruments": ["🎸 Distorted Electric Guitars", "🥁 Aggressive Double Kick Drums", "🔊 Overdriven Bass", "⚡ Sharp Accent Clashes"],
+      "vibes": ["Ferocious", "Visceral", "Unapologetic", "Punchy"]
+    },
+    "mysterious": {
+      "bpm": "78–92 BPM",
+      "instruments": ["🎹 Detuned Mellotron Flutes", "🎸 Reverb-Heavy Plucks", "🥁 Odd Percussion Accents", "🔊 Hypnotic Sub Tone"],
+      "vibes": ["Enigmatic", "Intriguing", "Uncanny", "Curious"]
+    }
+  },
+  "generic_fallback": {
+    "bpm": "85–105 BPM",
+    "instruments": ["🎸 Acoustic Guitar", "🎹 Studio Grand Piano", "🥁 Dynamic Drum Groove", "🎻 Chamber Strings", "🔊 Bass Guitar"],
+    "vibes": ["Expressive", "Melodic", "Atmospheric", "Dynamic"],
+    "description": "Versatile studio arrangement offering an expansive dynamic range, rich harmonics, and clear melodic space for vocals."
+  }
+}
